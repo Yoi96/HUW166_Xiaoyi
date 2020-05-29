@@ -1,2 +1,2 @@
-# https://HUW166_Xiaoyi
+# HUW166_Xiaoyi
 MY website
